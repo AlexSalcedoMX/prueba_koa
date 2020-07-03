@@ -23,7 +23,7 @@
     "koa-json": "^2.0.2",
     "koa-router": "^7.1.1",
     "moment": "^2.18.1",
-    "mongoose": "^4.9.8",
+    "mongoose": "^5.9.21",
     "winston": "^2.3.1"
   }
 }
